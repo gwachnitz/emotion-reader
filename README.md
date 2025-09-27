@@ -1,1 +1,1 @@
-# Repository for final project
+# AI Emotion Reader App
